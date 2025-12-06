@@ -1,5 +1,7 @@
 ##### authors #####
 
+# 2025-12-06 언더
+
 ##### /authors #####
 
 ##### translated strings #####
@@ -66,28 +68,28 @@ Warlist
 == 
 
 Add war name:
-== 
+== 전쟁 이름 추가
 
 Add war clan:
-== 
+== 전쟁 클랜 추가
 
 Add team name:
-== 
+== 팀 이름 추가
 
 Add team clan:
-== 
+== 팀 클랜 추가
 
 Remove war name:
-== 
+== 전쟁 이름 제거
 
 Remove war clan:
-== 
+== 전쟁 클랜 제거
 
 Remove team name:
-== 
+== 팀 이름 제거
 
 Remove team clan:
-== 
+== 팀 클랜 제거
 
 Add [group] [name] [reason]:
 == 
@@ -105,40 +107,40 @@ Other
 == 
 
 Translate:
-== 
+== 번역
 
 Translate ID:
-== 
+== 번역 ID
 
 Mute:
-== 
+== 음소거
 
 Unmute:
-== 
+== 음소거 해제
 
 Settings
-== 
+== 설정
 
 Bind Wheel
-== 
+== 바인드 휠
 
 War List
-== 
+== 전쟁 목록
 
 Chat Binds
-== 
+== 채팅 바인드
 
 Status Bar
 == 
 
 Info
-== 
+== 정보
 
 Visual
 == 
 
 Custom Font: 
-== 
+== 사용자 정의 글꼴
 
 [Hammer Mode]
 Normal
@@ -156,10 +158,10 @@ Hammer Mode:
 == 
 
 Ingame cursor scale
-== 
+== 인게임 커서 크기
 
 Wheel animate
-== 
+== 휠 애니메이션
 
 Show ping colored circle in nameplates
 == 
@@ -195,7 +197,7 @@ Fake CTF flags
 == 
 
 Input
-== 
+== 입력
 
 Fast Inputs (-20ms visual delay)
 == 
@@ -216,7 +218,7 @@ Amount
 == 
 
 Delay
-== 
+== 딜레이
 
 Dont predict other players if you are frozen
 == 
@@ -261,28 +263,28 @@ Leave empty to disable
 == 
 
 Auto Reply
-== 
+== 자동 응답
 
 Auto reply to muted players
-== 
+== 음소거된 유저에게 자동 응답
 
 Auto reply when tabbed out
-== 
+== 창이 최소화일 때 자동 응답
 
 Player Indicator
-== 
+== 유저 표시기
 
 Show any enabled Indicators
-== 
+== 모든 유저 표시
 
 Hide indicator for tees on your screen
-== 
+== 화면에 보이는 Tee 숨기기
 
 Show only freeze Players
-== 
+== 동결된 유저만 표시
 
 Only show after joining a team
-== 
+== 팀에 있을 때만 표시
 
 Render tiny tees instead of circles
 == 
@@ -291,25 +293,25 @@ Use warlist groups for indicator
 == 
 
 Indicator size
-== 
+== 표시기 크기
 
 Indicator opacity
-== 
+== 표시기 불투명도
 
 Change indicator offset based on distance to other tees
 == 
 
 Indicator min offset
-== 
+== 표시기 최소 간격
 
 Indicator max offset
-== 
+== 표시기 최대 간격
 
 Indicator max distance
-== 
+== 표시기 최대 거리
 
 Indicator offset
-== 
+== 표시기 간격
 
 Use warlist colors instead of regular colors
 == 
@@ -327,22 +329,22 @@ Indicator safe color
 == 
 
 Pet
-== 
+== 펫
 
 Show the pet
-== 
+== 펫 표시
 
 Pet size
-== 
+== 펫 크기
 
 Pet alpha
-== 
+== 펫 불투명도
 
 Pet Skin:
-== 
+== 펫 스킨:
 
 HUD
-== 
+== HUD
 
 Show mini vote HUD
 == 
@@ -354,10 +356,10 @@ Show your cursor when in free spectate
 == 
 
 Spectate cursor alpha
-== 
+== 관전 커서 불투명도
 
 Show when you are the last alive
-== 
+== 혼자 살았을 떄 표시
 
 Last!
 == 
@@ -369,7 +371,7 @@ Vertical Position
 == 
 
 Font Size
-== 
+== 글꼴 크기
 
 Show screen center lines
 == 
@@ -493,19 +495,19 @@ Toggle ghosts key
 == 
 
 Rainbow
-== 
+== 무지개
 
 Rainbow Tees
-== 
+== Tee 무지개
 
 Rainbow weapons
-== 
+== 무기 무지개
 
 Rainbow hook
-== 
+== 갈고리 무지개
 
 Rainbow others
-== 
+== 다른 사람들 무지개
 
 Pulse
 == 
@@ -514,10 +516,10 @@ Black
 == 
 
 Random
-== 
+== 무작위
 
 Rainbow speed
-== 
+== 무지개 속도
 
 Tee Trails
 == 
@@ -538,10 +540,10 @@ Solid
 == 
 
 Tee
-== 
+== Tee
 
 Speed
-== 
+== 속도도
 
 Tee trail color
 == 
@@ -559,7 +561,7 @@ Background Draw
 == 
 
 Color
-== 
+== 색상
 
 Time until strokes disappear
 == 
@@ -601,10 +603,10 @@ Override Selected
 == 
 
 Add Bind
-== 
+== 바인드 추가
 
 Remove Bind
-== 
+== 바인드 삭제
 
 The command is ran in console not chat
 == 
@@ -619,7 +621,7 @@ Use middle mouse select without copy
 == 
 
 Bind Wheel Key
-== 
+== 바인드 휠 키
 
 Reset position of mouse when opening bindwheel
 == 
@@ -631,10 +633,10 @@ Edit Entry
 == 
 
 Clan
-== 
+== 클랜
 
 Reason
-== 
+== 이유유
 
 Override Entry
 == 
@@ -670,22 +672,22 @@ Remove War Group
 == 
 
 Yes
-== 
+== 예
 
 No
-== 
+== 아니오오
 
 Override Group
 == 
 
 Add Group
-== 
+== 그룹 추가
 
 Online Players
-== 
+== 온라인 유저
 
 Show status bar
-== 
+== 상태 바 표시
 
 Show labels on status bar items
 == 
@@ -721,10 +723,10 @@ Status Bar Codes:
 == 
 
 a = Angle
-== 
+== a = 각도
 
 p = Ping
-== 
+== p = 핑
 
 d = Prediction
 == 
@@ -799,13 +801,13 @@ Enable Discord Integration
 == 
 
 Name: %s
-== 
+== 이름: %s
 
 Clan: %s
-== 
+== 클랜: %s
 
 Skin: %s
-== 
+== 스킨: %s
 
 Your profile
 == 
@@ -814,40 +816,40 @@ After Load
 == 
 
 Save/Load Skin
-== 
+== 스킨 저장/불러오기
 
 Save/Load Colors
-== 
+== 색상 저장/불러오기
 
 Save/Load Emote
 == 
 
 Save/Load Name
-== 
+== 이름 저장/불러오기
 
 Save/Load Clan
-== 
+== 클랜 저장/불러오기
 
 Save/Load Flag
-== 
+== 국기 저장/불러오기
 
 Load
-== 
+== 불러오기
 
 Save
-== 
+== 저장
 
 Delete
-== 
+== 삭제
 
 Override
 == 
 
 Dummy
-== 
+== 더미
 
 Custom colors
-== 
+== 사용자 정의 색상
 
 Overwrite clan even if empty
 == 
